@@ -1,0 +1,5 @@
+MyBoat:
+-Angoli arrotondati
+-Colori: Azzurro-Blu + Bianco(modalità giorno), Nero( modalità notte).
+-Sezione Mapppa 
+-Font:Roboto intestazione, Ariel
